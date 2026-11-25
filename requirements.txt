@@ -1,0 +1,11 @@
+torch
+torchvision>=0.17
+open_clip_torch
+transformers
+rank_bm25
+groq
+numpy
+pandas
+scikit-learn
+matplotlib
+pillow
